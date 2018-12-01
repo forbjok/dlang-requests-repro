@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dlang-requests-repro.so
+dlang-requests-repro.dylib
+dlang-requests-repro.dll
+dlang-requests-repro.a
+dlang-requests-repro.lib
+dlang-requests-repro-test-*
+*.exe
+*.o
+*.obj
+*.lst
